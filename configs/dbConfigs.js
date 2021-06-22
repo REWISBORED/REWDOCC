@@ -1,0 +1,1 @@
+module.exports = 'mongodb+srv://admin:admin1234@cluster0.ujm7t.mongodb.net/docApp?retryWrites=true&w=majority'
